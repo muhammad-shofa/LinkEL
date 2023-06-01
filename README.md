@@ -3,3 +3,4 @@ LinkEL is a link list website that I made for learning, this is just a website w
 
 LinkEL is inspired by the website linktr.ee
 The technology I use to make this website is HTML & CSS.
+This website is deployed using vercel.com.
