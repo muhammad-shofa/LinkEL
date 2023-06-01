@@ -153,4 +153,10 @@ footer p a {
   .footer {
     font-size: small;
   }
+  
+  .contact {
+    float: none;
+    margin-top: 10px;
+    margin-left: 20px;
+  }
 }
